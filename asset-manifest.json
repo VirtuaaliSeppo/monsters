@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//virtuaaliseppo.github.io/monsters/static/css/main.2adfebb3.chunk.css",
+    "main.js": "/https//virtuaaliseppo.github.io/monsters/static/js/main.ee1a9283.chunk.js",
+    "main.js.map": "/https//virtuaaliseppo.github.io/monsters/static/js/main.ee1a9283.chunk.js.map",
+    "runtime-main.js": "/https//virtuaaliseppo.github.io/monsters/static/js/runtime-main.d4284a5e.js",
+    "runtime-main.js.map": "/https//virtuaaliseppo.github.io/monsters/static/js/runtime-main.d4284a5e.js.map",
+    "static/js/2.47d3de12.chunk.js": "/https//virtuaaliseppo.github.io/monsters/static/js/2.47d3de12.chunk.js",
+    "static/js/2.47d3de12.chunk.js.map": "/https//virtuaaliseppo.github.io/monsters/static/js/2.47d3de12.chunk.js.map",
+    "static/js/3.9db938e1.chunk.js": "/https//virtuaaliseppo.github.io/monsters/static/js/3.9db938e1.chunk.js",
+    "static/js/3.9db938e1.chunk.js.map": "/https//virtuaaliseppo.github.io/monsters/static/js/3.9db938e1.chunk.js.map",
+    "index.html": "/https//virtuaaliseppo.github.io/monsters/index.html",
+    "static/css/main.2adfebb3.chunk.css.map": "/https//virtuaaliseppo.github.io/monsters/static/css/main.2adfebb3.chunk.css.map",
+    "static/js/2.47d3de12.chunk.js.LICENSE.txt": "/https//virtuaaliseppo.github.io/monsters/static/js/2.47d3de12.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4284a5e.js",
+    "static/js/2.47d3de12.chunk.js",
+    "static/css/main.2adfebb3.chunk.css",
+    "static/js/main.ee1a9283.chunk.js"
+  ]
+}
